@@ -251,6 +251,23 @@ body.is-loading {
     text-align: center;
 }
 
+.cross-tool {
+    margin: 4px 0 12px;
+    color: #aaa;
+    font-size: 13px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.cross-tool a {
+    color: #a78bfa;
+    text-decoration: underline;
+}
+
+.cross-tool a:hover {
+    color: #c4b5fd;
+}
+
 .tool-label {
     margin: 0;
     font-size: 1rem;
